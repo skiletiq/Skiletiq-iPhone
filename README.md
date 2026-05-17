@@ -5,11 +5,7 @@
 </head>
 <body>
   <h1>Welcome to Skiletiq-iPhone Website</h1>
-  <p>Website is working successfully.</p>
-</body>
-</html>
-<html lang="zu">
-<head>
+  <p>Website is working successfully.<
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>SkiletiQ iPhone Plug</title>
