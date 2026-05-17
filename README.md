@@ -8,7 +8,6 @@
   <p>Website is working successfully.</p>
 </body>
 </html>
-<!DOCTYPE html>
 <html lang="zu">
 <head>
   <meta charset="UTF-8">
