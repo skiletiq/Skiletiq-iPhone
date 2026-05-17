@@ -1,5 +1,4 @@
 # Skiletiq-iPhone
-<!DOCTYPE html>
 <html>
 <head>
   <title>Skiletiq-iPhone</title>
